@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-  margin-left: 95px;
+  margin-left: 0px;
   margin-bottom: 30px;
 }
 
@@ -45,7 +45,7 @@ main {
 .profile-photo {
   float: left;
 
-  width: 135px;
+  width: 300px;
   height: auto;
 
   margin-right: 32px;
